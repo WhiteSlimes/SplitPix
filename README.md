@@ -1,2 +1,2 @@
 # SplitPix
-First Game of Gigapix'L
+First Game of Gigapix'L Studio
